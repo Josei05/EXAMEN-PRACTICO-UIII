@@ -11,7 +11,7 @@ tools:context=".AgregarActivity">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="240dp"
-        android:background="#008577" />
+        android:background="#FF7F50" />
     <LinearLayout
         android:id="@+id/topbar"
         android:layout_width="match_parent"
@@ -82,7 +82,7 @@ tools:context=".AgregarActivity">
                         android:layout_marginTop="10dp"
                         android:fontFamily="@font/proximanovaregular"
                         android:text="@string/descripcionTema"
-                        android:textColor="#424242"
+                        android:textColor="#FF7F50"
                         android:textSize="21sp"
                         android:textStyle="bold" />
                 </LinearLayout>
@@ -191,7 +191,7 @@ tools:context=".AgregarActivity">
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:text="@string/agregarHechos"
-                                android:textColor="#009688"
+                                android:textColor="#FF7F50"
                                 android:textSize="14sp"
                                 android:textStyle="bold" />
                         </LinearLayout>
@@ -204,7 +204,7 @@ tools:context=".AgregarActivity">
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:text="@string/agregarTema"
-                                android:textColor="#009688"
+                                android:textColor="#FF7F50"
                                 android:textSize="14sp"
                                 android:textStyle="bold" />
                         </LinearLayout>
