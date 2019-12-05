@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7F50</color>
+    <color name="colorPrimaryDark">#FF7F50</color>
+    <color name="colorAccent">#FF8C00</color>
+    <color name="red">#FF0000</color>
+    <color name="grey">#E9EAEE</color>
+    <color name="yellow">#F8BA0F</color>
+    <color name="goodgrey">#535353</color>
+    <color name="orange">#FF7F50</color>
+    <color name="lightgrey">#EEEEEE</color>
+    <color name="black_overlay">#FFFF99</color>
+</resources>
